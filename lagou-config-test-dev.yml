@@ -2,7 +2,7 @@ datasource:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8
     username: root
-    password: Xueyu1954
+    password: 123456
   jpa:
     database: MySQL
     show-sql: true
