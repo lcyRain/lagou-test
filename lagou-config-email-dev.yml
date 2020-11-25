@@ -6,7 +6,7 @@ email:
   #邮箱账号
   mailUsername: lcydorom@163.com
   #邮箱授权码
-  mailPassword: ***
+  mailPassword: xueyu1954
   #时间延迟
   mailTimeout: 25000
   #发送人
