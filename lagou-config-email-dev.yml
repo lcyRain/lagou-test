@@ -12,6 +12,6 @@ email:
   #发送人
   mailFrom: lcydorom@163.com
   #发件人
-  personal: 黑白色调
+  personal: 验证码
   #主题
   subject: 邮件发送微服务测试
